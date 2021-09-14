@@ -4,5 +4,5 @@ function setup() {
 
 function draw() {
   background(220);
-  console.log("Hello" + "Planet"  + "Earth");
+  console.log("Hola" + "Planeta"  + "Tierra");
 }
